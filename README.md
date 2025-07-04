@@ -17,19 +17,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-### 🚀 Projects
-
-- 🪐 **[APOD Viewer](https://github.com/)** – Explore NASA's Astronomy Picture of the Day  
-- 🛒 **[E-commerce Site](https://github.com/)** – Full MERN stack shopping experience  
-- 🌾 **AI Farming Assistant** – Built for Google Cloud Agentic AI Day 2025
-
-### 📣 Involvement
-
-- Speaker at Techkriya, NIT AP  
-- Internshala Student Partner  
-- Always learning and building!
-
 ---
 
 Feel free to replace project links with your actual repos or portfolio links. If you want to include a GitHub stats card or contribution graph too, I can add that.
