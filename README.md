@@ -2,9 +2,8 @@
 
 ## 👋 Hi, I'm Sahil
 
-🎓 CSE Undergrad at NIT Andhra Pradesh (Batch of 2027)  
+🎓 Undergrad at NIT Andhra Pradesh (Batch of 2027)  
 💡 I love building full-stack applications & experimenting with Generative AI  
-🌱 Currently exploring AI in agriculture (Google Cloud Agentic AI Day 2025)
 
 ### 🛠️ Tech Stack
 
