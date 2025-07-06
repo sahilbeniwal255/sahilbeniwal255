@@ -18,4 +18,3 @@
 
 ---
 
-Feel free to replace project links with your actual repos or portfolio links. If you want to include a GitHub stats card or contribution graph too, I can add that.
